@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../rhythm game"
+		},
+		{
+			"name": "sannrinnomuni",
+			"path": "."
+		}
+	],
+	"settings": {
+		"dotnet.defaultSolution": "rhythm game.sln"
+	}
+}
